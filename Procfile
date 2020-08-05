@@ -1,1 +1,1 @@
-worker: node config.py
+worker: node main.py
