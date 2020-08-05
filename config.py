@@ -1,5 +1,5 @@
 id = '220338999523409921' # server ID 220343370411802626','220348641913602048','317681753508806666','313868758982590464','271064369796743169','487327606698409986
-token = 'NTAwNzcwMjc1MDk3MzEzMjkw.DqVVpg.XPz4XAKaoWz9a9eJD6DjoIn4Z_U' # bot token
+token = 'NTAwNzcwMjc1MDk3MzEzMjkw.W8JYqQ.y_BsSOwh_KzVPW7n8Fhe5QV3jaA' # bot token
 whitelist = ['220441635622879232','220343370411802626','220348641913602048','317681753508806666','313868758982590464','271064369796743169','487327606698409986','313725364226621442',] # list of channels to post to first one is #social
 messages = [
         '@here this is a public service announcement that ahm still in jail... I still need one of yalll to bail me out....plz',
